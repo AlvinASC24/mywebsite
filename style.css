@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    background-color: beige;
+}
+
+.pic_container{
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+    height: 200px;
+}
+
+nav{
+    color: rgb(11, 12, 12);
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    background-color: beige;
+    justify-content: space-around;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.pictures_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 50px;
+    background-color: beige;
+}
+
+.pictureofme{
+    position: relative;
+    left: 850px;
+    nav-down: 500px;
+}
+
+img{
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    width: 200px;
+}
+
+h6{
+    size: 2;
+}
+
+.future_container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: beige;
+    margin-top: 20px;
+    border-left: 20px;
+    border-right: 20px;
+}
